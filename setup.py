@@ -8,7 +8,7 @@ setup(
   author = 'Bahman Ahmadi',
   author_email = 'bahmanahmadi.mail@gmail.com',
   url = 'https://github.com/Bahman-Ahmadi/langlib',
-  download_url = 'https://github.com/Bahman-Ahmadi/langlib/archive/v_10.tar.gz',
+  download_url = 'https://github.com/Bahman-Ahmadi/Lang_lib/archive/v_10.tar.gz',
   keywords = ['tools', 'langsLists', 'imports'],
   install_requires=[
           'requests',
