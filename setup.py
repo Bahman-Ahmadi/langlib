@@ -7,7 +7,7 @@ setup(
   description = 'langlib is a library for work by words',
   author = 'Bahman Ahmadi',
   author_email = 'bahmanahmadi.mail@gmail.com',
-  url = 'https://github.com/Bahman-Ahmadi/langlib',
+  url = 'https://github.com/Bahman-Ahmadi/Lang_lib',
   download_url = 'https://github.com/Bahman-Ahmadi/Lang_lib/archive/v_10.tar.gz',
   keywords = ['tools', 'langsLists', 'imports'],
   install_requires=[
