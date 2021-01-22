@@ -1,0 +1,33 @@
+from distutils.core import setup
+setup(
+  name = 'Lang_lib',
+  packages = ['Lang_lib'],
+  version = '1.0',
+  license='MIT', 
+  description = 'langlib is a library for work by words',
+  author = 'Bahman Ahmadi',
+  author_email = 'bahmanahmadi.mail@gmail.com',
+  url = 'https://github.com/Bahman-Ahmadi/langlib',
+  download_url = 'https://github.com/Bahman-Ahmadi/langlib/archive/v_10.tar.gz',
+  keywords = ['tools', 'langsLists', 'imports'],
+  install_requires=[
+          'requests',
+          'PyPDF2',
+          'docx2txt',
+          'gtts',
+          'wikipedia',
+      ],
+  classifiers=[
+    'Development Status :: 3 - Alpha',
+    'Intended Audience :: Developers',
+    'Topic :: Software Development :: Build Tools',
+    'License :: OSI Approved :: MIT License',
+    'Programming Language :: Python :: 3',   
+    'Programming Language :: Python :: 3.4',
+    'Programming Language :: Python :: 3.5',
+    'Programming Language :: Python :: 3.6',
+    'Programming Language :: Python :: 3.7',
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+  ],
+)
