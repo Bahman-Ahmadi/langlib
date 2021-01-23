@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'LanguagesLib',
-  packages = ['LanguagesLib'],
+  name = 'langlib',
+  packages = ['langlib'],
   version = '1.0',
   license='MIT', 
   description = 'langlib is a library for work by words',
   author = 'Bahman Ahmadi',
   author_email = 'bahmanahmadi.mail@gmail.com',
   url = 'https://github.com/Bahman-Ahmadi/LanguagesLib',
-  download_url = 'https://github.com/Bahman-Ahmadi/LanguagesLib/archive/v_10.tar.gz',
+  download_url = 'https://github.com/Bahman-Ahmadi/langlib/archive/v_10.tar.gz',
   keywords = ['tools', 'langsLists', 'imports'],
   install_requires=[
           'requests',
