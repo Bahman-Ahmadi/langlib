@@ -1,4 +1,4 @@
-# Lang_lib
+# Langlib
 a python library for work by words,
 
 a world of Operational Tools.
@@ -9,4 +9,4 @@ You can set Styles for texts !
 
 You can find every moods of 'n' letter in a word.
 
-You can to every doing…
+You can to every doing… .
