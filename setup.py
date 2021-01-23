@@ -9,7 +9,7 @@ setup(
   author_email = 'bahmanahmadi.mail@gmail.com',
   url = 'https://github.com/Bahman-Ahmadi/LanguagesLib',
   download_url = 'https://github.com/Bahman-Ahmadi/langlib/archive/v_10.tar.gz',
-  keywords = ['tools', 'langsLists', 'imports'],
+  keywords = [],
   install_requires=[
           'requests',
           'PyPDF2',
