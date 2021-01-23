@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'langlib',
-  packages = ['langlib'],
+  name = 'langlib1',
+  packages = ['langlib1'],
   version = '1.0',
   license='MIT', 
   description = 'langlib is a library for work by words',
