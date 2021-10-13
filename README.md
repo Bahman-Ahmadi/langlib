@@ -14,11 +14,13 @@ You can to every doing… .
 #install
 ```bash
 pip install langlib1
+```
 
 #using
-```py
+```py3
 from langlib1 import write
 write("ok")
+```
 
 #docs
 http://langlib.ir
