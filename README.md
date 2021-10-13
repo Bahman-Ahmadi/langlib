@@ -11,16 +11,16 @@ You can find every moods of 'n' letter in a word.
 
 You can to every doing… .
 
-#install
+# install
 ```bash
 pip install langlib1
 ```
 
-#using
+# using
 ```py3
 from langlib1 import write
 write("ok")
 ```
 
-#docs
+# docs
 http://langlib.ir
