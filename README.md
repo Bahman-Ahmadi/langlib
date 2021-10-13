@@ -16,7 +16,7 @@ You can to every doing… .
 pip install langlib1
 
 #using
-```python
+```python3
 from langlib1 import write
 write("ok")
 
