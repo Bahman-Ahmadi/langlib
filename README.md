@@ -10,3 +10,15 @@ You can set Styles for texts !
 You can find every moods of 'n' letter in a word.
 
 You can to every doing… .
+
+#install
+```bash
+pip install langlib1```
+
+#using
+```python
+from langlib1 import write
+write("ok")```
+
+#docs
+http://langlib.ir
