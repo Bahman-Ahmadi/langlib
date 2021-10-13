@@ -13,12 +13,12 @@ You can to every doing… .
 
 #install
 ```bash
-pip install langlib1```
+pip install langlib1
 
 #using
 ```python
 from langlib1 import write
-write("ok")```
+write("ok")
 
 #docs
 http://langlib.ir
